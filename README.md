@@ -1,7 +1,5 @@
 # ConBitMatch-TillAnyMatch
 
-# ConBitMatch Complex Event Matching Algorithm
-
 ConBitMatch is a complex event matching algorithm based on the skip-till-any-match strategy, achieving comprehensive coverage of matching patterns.
 
 ## Environment Setup
