@@ -11,7 +11,7 @@ ConBitMatch is a complex event matching algorithm based on the skip-till-any-mat
 #### Using MSVC:
 1. Navigate to the directory containing ConBitMatch source files:
 2. Compile using the following command:
-3. 
+   
 cl /EHsc /std:c++20 /O2 *.cpp /Fe:ConBitMatch.exe
 
 #### Notes:
