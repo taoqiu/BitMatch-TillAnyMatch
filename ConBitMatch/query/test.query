@@ -1,0 +1,5 @@
+PATTERN SEQ(A a, B b, D c)
+WHERE skip-till-any-match
+AND a.attr1 < 1000
+WITHIN 5
+--------------------
