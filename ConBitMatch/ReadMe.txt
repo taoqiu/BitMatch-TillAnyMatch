@@ -19,7 +19,7 @@ cl /EHsc /std:c++20 /O2 *.cpp /Fe:ConBitMatch.exe
 - Ensure you're using the **x64** version of the command prompt for 64-bit compilation
 
 
-### Method 2: Using GCC/MinGW
+### Using GCC/MinGW
 
 #### Prerequisites:
 - GCC 10 or higher
@@ -31,7 +31,7 @@ cl /EHsc /std:c++20 /O2 *.cpp /Fe:ConBitMatch.exe
 
 g++ -std=c++20 -O2 -o ConBitMatch.exe *.cpp
 
-### Method 3: Integration into Existing Projects
+### Method 2: Integration into Existing Projects
 1. Copy all ConBitMatch source files (.cpp and .h) to your project directory
 2. Add the files to your project:
 - In Visual Studio: Right-click project → "Add" → "Existing Item"
@@ -56,3 +56,4 @@ The configuration properties of ConBitMatch are set in the document `config.txt`
 5. **Last line**: Relative address for saving detailed matching results
 
 After the program outputs all matching result information, you can enter any content to end the program execution.
+
