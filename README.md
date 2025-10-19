@@ -19,7 +19,7 @@ cl /EHsc /std:c++20 /O2 *.cpp /Fe:ConBitMatch.exe
 - Ensure you're using the **x64** version of the command prompt for 64-bit compilation
 
 
-### Method 2: Using GCC/MinGW
+### Using GCC/MinGW
 
 #### Prerequisites:
 - GCC 10 or higher
