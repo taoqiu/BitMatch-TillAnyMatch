@@ -31,7 +31,7 @@ cl /EHsc /std:c++20 /O2 *.cpp /Fe:ConBitMatch.exe
 
 g++ -std=c++20 -O2 -o ConBitMatch.exe *.cpp
 
-### Method 3: Integration into Existing Projects
+### Method 2: Integration into Existing Projects
 1. Copy all ConBitMatch source files (.cpp and .h) to your project directory
 2. Add the files to your project:
 - In Visual Studio: Right-click project → "Add" → "Existing Item"
