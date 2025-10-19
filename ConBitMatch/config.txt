@@ -1,5 +1,0 @@
-\query\test.query
-\data\test.stream
-1
-1
-\result\test.txt
